@@ -15,8 +15,10 @@ cur_dir=`pwd`
 libsodium_file="libsodium-1.0.18"
 libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.18-RELEASE/libsodium-1.0.18.tar.gz"
 
-mbedtls_file="mbedtls-2.16.4"
-mbedtls_url="https://tls.mbed.org/download/mbedtls-2.16.4-gpl.tgz"
+#mbedtls_file="mbedtls-2.16.4"
+#mbedtls_url="https://tls.mbed.org/download/mbedtls-2.16.4-gpl.tgz"
+mbedtls_file="mbedtls-2.25.0"
+mbedtls_url="https://github.com/ARMmbed/mbedtls/archive/v2.25.0.zip"
 
 # Stream Ciphers
 ciphers=(
