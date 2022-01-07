@@ -17,8 +17,10 @@ libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.18-RE
 
 #mbedtls_file="mbedtls-2.16.4"
 #mbedtls_url="https://tls.mbed.org/download/mbedtls-2.16.4-gpl.tgz"
-mbedtls_file="mbedtls-2.25.0"
-mbedtls_url="https://github.com/ARMmbed/mbedtls/archive/v2.25.0.tar.gz"
+#mbedtls_file="mbedtls-2.25.0"
+#mbedtls_url="https://github.com/ARMmbed/mbedtls/archive/v2.25.0.tar.gz"
+mbedtls_file="mbedtls-3.1.0"
+mbedtls_url="https://github.com/ARMmbed/mbedtls/archive/refs/tags/v3.1.0.tar.gz"
 
 # Stream Ciphers
 ciphers=(
